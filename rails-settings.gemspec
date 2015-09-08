@@ -5,8 +5,8 @@ Gem::Specification.new do |gem|
   gem.name          = "rails_settings" 
   gem.authors       = ["Samoilenko Yuri"]
   gem.email         = ["kinnalru@gmail.com"]
-  gem.description   = ""
-  gem.summary       = ""
+  gem.description   = "A Rails gem for storing app configuration data in your database, with a config file to fall back on."
+  gem.summary       = "A Rails gem for storing app configuration data in your database, with a config file to fall back on."
   gem.homepage      = "https://github.com/RnD-Soft/rails_settings"
 
   gem.version       = RailsSettings::VERSION
